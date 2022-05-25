@@ -1,2 +1,3 @@
 # xiyifutixingqi
 uniapp开发的洗衣服提醒器安卓app
+请选择master分支，不要选择main分支。项目到master分支下
